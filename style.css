@@ -1,0 +1,23 @@
+body{
+    color: rgba(174, 253, 3, 0.707);
+    background: rgb(50, 161, 126);
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+
+}
+#camera{
+    border: 2px dashed rgb(10, 245, 229);
+    width: 350px;
+    height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+    color: rgb(158, 11, 238);
+}
+h3{
+    background-color:rgb(227, 81, 115)
+}
+h2{
+    background-color:rgb(59, 62, 248)   
+}
